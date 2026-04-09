@@ -30,7 +30,7 @@ I’m open to collaborating on projects involving:
 📫 Contact Me
 
 - 📧 Email: johnvarshith2004@gmail.com
-- 💼 LinkedIn: (Add your profile link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/janjarapu-varshithkar-927020271
 
 ---
 
