@@ -1,5 +1,50 @@
-# 💫 About Me:
-👋 Hi, I’m @johnvarshith<br>👀 I’m interested in artificial intelligence, machine learning, web development, and video processing.<br>🌱 I’m currently learning more about advanced machine learning techniques and exploring full-stack development.<br>💞️ I’m looking to collaborate on projects involving AI, computer vision, and web applications.<br>📫 How to reach me: You can reach me through my LinkedIn profile or by email at johnvarshith2004@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I once built a video downloader app using FastAPI and yt-dlp just and object detection for fun!<br>johnvarshith/johnvarshith is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. 
+👋 Hi, I’m @johnvarshith
+
+🚀 About Me
+I’m passionate about building intelligent systems and solving real-world problems using technology. My interests lie at the intersection of:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision & Video Processing
+- 🌐 Full-Stack Web Development
+
+---
+
+🌱 Currently Learning
+I’m diving deeper into:
+
+- Advanced Machine Learning techniques
+- Scalable AI systems
+- Full-stack development (backend + interactive frontend)
+
+---
+
+💼 Looking to Collaborate On
+I’m open to collaborating on projects involving:
+
+- AI/ML applications
+- Computer Vision systems
+- Web-based intelligent platforms
+
+---
+
+📫 Contact Me
+
+- 📧 Email: johnvarshith2004@gmail.com
+- 💼 LinkedIn: (Add your profile link here)
+
+---
+
+😄 Pronouns
+He / Him
+
+---
+
+⚡ Fun Fact
+I built a video downloader using FastAPI + yt-dlp and even experimented with object detection—just for fun 😄
+
+---
+
+⭐️ Always open to learning, building, and collaborating on impactful ideas!
 
 
 ## 🌐 Socials:
